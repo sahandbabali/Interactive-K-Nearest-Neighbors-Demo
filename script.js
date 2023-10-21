@@ -81,7 +81,10 @@ showaxis.addEventListener("change", e => {
 })
 
 
+document.getElementById("screenshot").addEventListener("click", e => {
+    saveCanvas('screenshot', 'png');
 
+})
 
 
 

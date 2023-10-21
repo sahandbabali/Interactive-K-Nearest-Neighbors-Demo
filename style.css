@@ -1,3 +1,4 @@
 canvas {
+  margin: 0 auto;
   cursor: none; /* Hide the mouse pointer when over the canvas */
 }
